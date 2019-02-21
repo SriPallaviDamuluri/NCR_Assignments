@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\ds\assignment1\p3\source.cpp(148): warning C4715: 'stack::priority': not all control paths return a value
+  P3.vcxproj -> E:\DS\Assignment1\Debug\P3.exe
+  P3.vcxproj -> E:\DS\Assignment1\Debug\P3.pdb (Partial PDB)

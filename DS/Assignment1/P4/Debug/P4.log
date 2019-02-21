@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\ds\assignment1\p4\source.cpp(111): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  P4.vcxproj -> E:\DS\Assignment1\Debug\P4.exe
+  P4.vcxproj -> E:\DS\Assignment1\Debug\P4.pdb (Partial PDB)
